@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-on-UCF50-dataset-using-ConvLSTM-and-LRCN-models
